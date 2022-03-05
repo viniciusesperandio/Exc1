@@ -1,0 +1,15 @@
+C:\Users\Vinicius\source\repos\Exc1\Exc1\bin\Debug\net6.0\Exc1.exe
+C:\Users\Vinicius\source\repos\Exc1\Exc1\bin\Debug\net6.0\Exc1.deps.json
+C:\Users\Vinicius\source\repos\Exc1\Exc1\bin\Debug\net6.0\Exc1.runtimeconfig.json
+C:\Users\Vinicius\source\repos\Exc1\Exc1\bin\Debug\net6.0\Exc1.dll
+C:\Users\Vinicius\source\repos\Exc1\Exc1\bin\Debug\net6.0\Exc1.pdb
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\Exc1.csproj.AssemblyReference.cache
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\Exc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\Exc1.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\Exc1.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\Exc1.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\Exc1.dll
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\refint\Exc1.dll
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\Exc1.pdb
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\Exc1.genruntimeconfig.cache
+C:\Users\Vinicius\source\repos\Exc1\Exc1\obj\Debug\net6.0\ref\Exc1.dll

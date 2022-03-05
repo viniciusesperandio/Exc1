@@ -1,0 +1,2 @@
+No Projeto Console da Atividade 1, para realizar o teste é necessário descomentar(ctrl+a/ctrl+k+u) o código 
+do arquivo que será testado(F5) e comentar novamente(ctrl+a/ctrl+k+c) quando for testar o próximo exercício, assim sucessivamente;
